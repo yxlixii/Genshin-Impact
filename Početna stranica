@@ -1,0 +1,81 @@
+<html>
+<head>
+    <style type="text/css">
+        header{
+            background-color: light blue;
+            border: thin solid gray;
+            margin: 10px;
+            padding: 10px;
+            text-align: center;
+        }
+        header h1{
+            margin: 0px;
+            color: white;
+            font-size: xx-large;
+        }
+        header .opis{
+            margin: 0px;
+            font-weight: bold;
+        }
+        header .autor{
+            margin: 0px;
+            font-style: italic;
+            font-size: small;
+        }
+        footer{
+            background-color: light blue;
+            border: thin solid gray;
+            font-size: smaller;
+            font-style: italic;
+            text-align: center;
+            clear: both;
+            padding: 10;
+        }
+        .sadržaj{
+            font-size: large;
+            text-align: justify;
+            padding: 10;
+        }
+        .sadržaj h1{
+            font-size: x-large;
+            color: #7695fe;
+            font-weight: bold;
+            text-align: left;
+        }
+    </style>
+</head>
+<header>
+    <h1> Genshin Impact </h1>
+    <p class="opis"> Zakoračite u prostrani čarobni svijet avanture </p>
+    <p class="autor"> miHoYo </p>
+</header>
+<div class="sadržaj">
+    <h1> O igri Genshin Impact </h1>
+    <hr>
+    Genshin Impact je popularna open-world RPG igra
+koju je napravila kineska tvrtka miHoYo(danas HoYoverse).
+Igra je poznata po velikom svijetu, anime stilu
+i borbenom sustavu s elementima.enshin Impact je izašao 28. rujna 2020.
+Igra ima milijune igrača diljem svijeta
+i dostupna je na PC-u, PlayStationu i mobitelima.
+</div>
+<div class="sadržaj">
+    <h1>  Priča </h1>
+    <hr>Genshin Impact odvija se u svijetu koji se zove Teyvat, sastavljen od sedam glavnih nacija, od kojih svakim vlada bog zvan "Archon" i vezana je za drugačiji element i ideal.
+Plutajući otok Celestia visi iznad Teyvata, opisanog kao dom bogova, kao i smrtnika koji su se uzdigli do božanstva.
+   
+</div>
+<div class="sadržaj">
+    <h1> O igri Genshin Impact </h1>
+    <hr><div class="sadržaj">
+    <h1> Priča u Genshin Impactu </h1>
+    <hr> Na početku igre igrač može birati između dva glavna lika-sestre Lumine ili brata Aethera. Nakon odabira početnog lika, priča započinje u čarobnom svijetu Teyvata, gdje kreću brojne avanture, istraživanja i borbe protiv različitih neprijatelja. 
+    tijekom igre igrač upoznaje nove likove, otkriva različite regije i razvija svoje sposobnosti kako bi napredovao kroz priču.
+    
+</div>
+</div>
+<footer>
+    
+</footer>
+</html>
+ 
